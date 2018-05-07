@@ -1,1 +1,1 @@
-angular.module('ngCribs', [ui.bootstrap]);
+angular.module('ngCribs', ['ui.bootstrap']);
